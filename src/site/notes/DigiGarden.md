@@ -14,4 +14,6 @@ open with ad_table, better word count
 open with calender, dataview -> x
 
 open with dataview ->x 
-open with calendar 
+open with calendar ->o
+
+open exclude dataview

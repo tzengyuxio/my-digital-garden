@@ -6,3 +6,5 @@
 My content
 
 another line
+
+open with git plugin

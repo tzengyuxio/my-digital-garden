@@ -3,4 +3,6 @@
 ---
 
 
+*(編輯中...)*
+
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 必裝

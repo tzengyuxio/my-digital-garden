@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Wiki Home/","title":"三重雜筆","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/wiki-home/","title":"三重雜筆","pinned":true,"tags":["gardenEntry"]}
 ---
 
 

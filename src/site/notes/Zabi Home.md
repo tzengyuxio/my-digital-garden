@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zabi Home/","title":"三重雜筆序","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2023-09-06T18:28:55.464+08:00","updated":"2024-10-14T11:46:13.307+08:00"}
+{"dg-publish":true,"permalink":"/Zabi Home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2023-09-06T18:28:55.464+08:00","updated":"2024-10-14T13:17:30.184+08:00"}
 ---
 
 

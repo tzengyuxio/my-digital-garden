@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"AI Service Setup Windows InternalDNS ReverseProxy Configuration.md","permalink":"/AI Service Setup Windows InternalDNS ReverseProxy Configuration/","title":"區網 AI 服務管理筆記：DNS 與反向代理實踐","tags":["dify","ollama","comfyui","reverse-proxy","open-webui","caddy","winsw","dns"],"noteIcon":"","created":"2024-10-03T19:49:30.481+08:00","updated":"2024-10-14T13:19:05.330+08:00"}
+{"dg-publish":true,"dg-path":"AI Service Setup Windows InternalDNS ReverseProxy Configuration.md","permalink":"/AI Service Setup Windows InternalDNS ReverseProxy Configuration/","title":"區網 AI 服務管理筆記：DNS 與反向代理實踐","tags":["dify","ollama","comfyui","reverse-proxy","open-webui","caddy","winsw","dns"],"created":"2024-10-03T19:49:30.481+08:00","updated":"2024-10-14T13:19:05.330+08:00"}
 ---
 
 
